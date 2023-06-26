@@ -1,4 +1,4 @@
-namespace Task.Api;
+namespace WebApplication1;
 
 public class WeatherForecast
 {

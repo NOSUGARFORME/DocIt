@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.Api", "src\DocIt.TaskM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagment.Api", "src\DocIt.UserManagmentMicroservice\UserManagment.Api\UserManagment.Api.csproj", "{4FB94CFF-2222-48FF-BB58-EC629E090B14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "src\DocIt.Shared\Shared\Shared.csproj", "{0D4F12DB-1F7B-4D61-A005-C2FF94FED807}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,7 @@ Global
 		{CAF427D4-9440-458D-A62B-AE1CDCA627A8} = {E52F4FDD-3009-4D54-9B6F-44F01335D32C}
 		{729D1BB0-8AD1-47A1-A407-40E3FCC4250B} = {CA52EF30-AE51-408E-AB39-A874C1B72776}
 		{4FB94CFF-2222-48FF-BB58-EC629E090B14} = {A927138B-410C-48CE-8BDD-1A96AC25EFA8}
+		{0D4F12DB-1F7B-4D61-A005-C2FF94FED807} = {A2C03BAC-932F-47C0-A8B5-9F17F7B7E31F}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CAF427D4-9440-458D-A62B-AE1CDCA627A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -37,5 +40,9 @@ Global
 		{4FB94CFF-2222-48FF-BB58-EC629E090B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FB94CFF-2222-48FF-BB58-EC629E090B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FB94CFF-2222-48FF-BB58-EC629E090B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4F12DB-1F7B-4D61-A005-C2FF94FED807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4F12DB-1F7B-4D61-A005-C2FF94FED807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4F12DB-1F7B-4D61-A005-C2FF94FED807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4F12DB-1F7B-4D61-A005-C2FF94FED807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Task.Api.Controllers;
+namespace WebApplication1.Controllers;
 
 [ApiController]
 [Route("[controller]")]
